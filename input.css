@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  /* border: 2px solid red; */
+}
+
+#header {
+  background-image: url("../images/bg-header-mobile.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#footer {
+  background: hsl(0, 0%, 97%);
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+  #header {
+    background-image: url("../images/bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+}
