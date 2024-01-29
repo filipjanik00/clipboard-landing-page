@@ -16,22 +16,20 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Screenshots
 
 ![](./design/desktop-preview.jpg)
-![](./screenshots/desktop-preview.png)
-![](./screenshots/mobile-preview.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-using-tailwind-css-LsAifAKLC6)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/clipboard-landing-page/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
+- Tailwind CSS
 - Mobile First Workflow
 
 ## Author
